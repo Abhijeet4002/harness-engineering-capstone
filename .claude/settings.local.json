@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3.10:*)",
+      "Bash(PYTHONPATH=. python3.10:*)",
+      "Bash(done)"
+    ]
+  }
+}
